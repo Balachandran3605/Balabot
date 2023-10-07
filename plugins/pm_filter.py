@@ -2224,4 +2224,4 @@ async def global_filters(client, message, text=False):
                     logger.exception(e)
                 break
     else:
-        return False
+        return False.
